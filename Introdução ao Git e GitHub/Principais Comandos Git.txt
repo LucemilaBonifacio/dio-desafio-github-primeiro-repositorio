@@ -1,3 +1,4 @@
+Principais comandos Git:
 Git ini.t: iniciando um repositório!
 Git clone: baixando um repositório!
 Git add e git commit: adicionando e confirmando mudanças!
